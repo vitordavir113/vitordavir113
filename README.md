@@ -7,6 +7,5 @@
     <img align="center" alt="Rafa-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 </div>
 
-##
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitordavir113&_icons=true&theme=holi)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vitordavir113&show_icons=true&theme=holi)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitordavir113&size_weight=0.5&count_weight=0.5&theme=holi)
