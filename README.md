@@ -22,6 +22,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitordavir113&theme=dracula&show_icons=true&locale=en&layout=compact" alt="vitordavir113" /></p>
  
- <p><img align="center" src="https://cdn.jsdelivr.net/gh/vitordavir113/github-stats-terminal-style@latest/themes/dracula.svg" alt="dracula"><p/>
+<p align="center" >
+  <a href="https://github.com/vitordavir113/github-stats-terminal-style/actions/workflows/main.yml">
+    <img src="https://github.com/vitordavir113/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
+  </a>
+</p>
 
 
