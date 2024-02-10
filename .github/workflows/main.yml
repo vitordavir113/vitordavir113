@@ -45,7 +45,7 @@ jobs:
           
       - name: Update Template
         run: |
-          node updater.js ${{ vitordavir113 }} atom
+          node updater.js ${{ vitordavir113 }} <dracula>
         env:
           GHT: ${{ secrets.GHT }}
           
