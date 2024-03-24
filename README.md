@@ -21,11 +21,7 @@
 <p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vitordavir113&theme=dracula&show_icons=true&locale=en&layout=compact" alt="vitordavir113" /></p>
- 
-<p align="center" >
-  <a href="https://github.com/vitordavir113/github-stats-terminal-style/actions/workflows/main.yml">
-    <img src="https://github.com/yogeshwaran01/github-stats-terminal-style/actions/workflows/main.yml/badge.svg" alt="Update Github Stats" title="Terminal Style GitHub Stats">
-  </a>
+
 </p>
 
 
