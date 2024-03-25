@@ -7,7 +7,7 @@
 
 - 🔭 I´m currently studying in **High school**
 
-- 🌱 I’m currently learning **Java**
+- 🌱 I’m currently learning **python**
 
 - 📫 How to reach me **Vitordavir0703@gmail.com**
 
