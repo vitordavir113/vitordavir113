@@ -13,7 +13,7 @@ I keep trying to be a good mobile developer.
 
 🔭**the languages ​​I currently study**:
 
-<code><img height="32" src="https://raw.githubusercontent.com/vitordavir113/vitordavir113/main/swift.png" alt="swift"/></code> 
+<code><img height="32" src="https://raw.githubusercontent.com/tandpfun/skill-icons/65dea6c4eaca7da319e552c09f4cf5a9a8dab2c8/icons/Kotlin-Dark.svg" alt="kotlin"/></code> 
 
 ---
 <table>
