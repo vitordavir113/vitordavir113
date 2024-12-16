@@ -34,7 +34,7 @@ I keep trying to be a good developer.
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordavir113&layout=donut&theme=dracula&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitordavir113&layout=donut&theme=dracula&hide_border=false" a
         alt="Github Stats"
       />
     </td>
